@@ -93,7 +93,8 @@ interval=persist
 #interval=10
 
 [updates]
-command=~/bin/updates_report.sh
+command=~/.config/i3blocks/updates_report/updates_report.sh
+markup=pango
 interval=10
 
 # Date Time
