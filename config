@@ -80,14 +80,14 @@ separator=false
 interval=10
 separator=false
 
-[bandwidth]
+#[bandwidth]
 #instance=eth0
-interval=5
+#interval=5
 
-[cpu_usage2]
-command=.config/i3blocks/cpu_usage2/cpu_usage2
-markup=pango
-interval=persist
+#[cpu_usage2]
+#command=.config/i3blocks/cpu_usage2/cpu_usage2
+#markup=pango
+#interval=persist
 
 #[load_average]
 #interval=10
